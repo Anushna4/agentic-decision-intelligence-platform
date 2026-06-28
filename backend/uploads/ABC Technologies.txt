@@ -1,0 +1,72 @@
+# Customer Meeting Notes
+
+**Meeting Date:** June 28, 2026
+
+**Customer Name:** ABC Technologies Pvt. Ltd.
+
+**Customer Contact:** Rahul Sharma (IT Director)
+
+**Account Manager:** Priya Verma
+
+**Meeting Type:** Quarterly Business Review
+
+---
+
+## Meeting Summary
+
+The customer expressed concerns about the current experience with our platform. They mentioned that the subscription cost feels high compared to competitors and that their management team is evaluating alternative solutions before the upcoming renewal.
+
+The customer also reported that support response times have been slower than expected during the past two months. They highlighted that two high-priority issues took more than three days to resolve, which affected their internal operations.
+
+Product usage has also decreased over the last quarter. Only about 45% of licensed employees are actively using the platform. The customer believes many employees are unaware of several useful features and requested additional product training.
+
+The customer stated that they are generally satisfied with the platform's functionality but are disappointed with customer support and pricing.
+
+The annual contract is due for renewal in approximately three weeks. They indicated that they have received proposals from competing vendors but have not yet made a final decision.
+
+---
+
+## Customer Feedback
+
+### Positive
+
+* Platform is reliable.
+* Security features meet company requirements.
+* Integration with existing tools works well.
+
+### Negative
+
+* Subscription pricing is considered expensive.
+* Support response time is slow.
+* Employee adoption is low.
+* Training resources are insufficient.
+
+---
+
+## Action Items Requested by Customer
+
+* Review available pricing options.
+* Arrange an advanced product training session.
+* Assign a dedicated Customer Success Manager.
+* Improve support response times.
+* Schedule another meeting before the renewal date.
+
+---
+
+## Overall Sentiment
+
+**Negative to Neutral**
+
+The customer is still interested in continuing the partnership but expects improvements before renewing the contract.
+
+---
+
+## Keywords
+
+Pricing, Renewal, Customer Support, Low Product Usage, Competitor Evaluation, Employee Training, Customer Satisfaction
+
+---
+
+## Expected Business Outcome
+
+The customer is considered to have a **high churn risk** because of the approaching renewal date, pricing concerns, and dissatisfaction with support. Immediate action is recommended to improve customer satisfaction and increase the likelihood of contract renewal.
